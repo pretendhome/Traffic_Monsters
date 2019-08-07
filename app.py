@@ -24,13 +24,13 @@ def welcome():
         <li>Christian</li>
         <li>Mical</li>
         </ul> 
-        <h2>Finding Data & Visualization</h2>
+        <h2>Plotting Data & Visualization</h2>
         <ul>
         <li>  
-        <a href="https://data.sfgov.org/Transportation/Rush-Hour-Routes/4zr7-yz4w"><em>Click here to see Rush Hour Routes</em></a>
+        <a href="https://data.sfgov.org/Transportation/Rush-Hour-Routes/4zr7-yz4w"><em>Click 4 Rush Hour Routes</em><img class="panel" src="https://github.com/ChiAmyC0987/ETL-TRAFFIC-MONSTER/blob/master/Images/Rush%20Hour%20Routes%20Max%20Traffic%20Count.png?raw=true"width=240 alt="Rush Hour Max Column"><img class="panel" src="https://github.com/ChiAmyC0987/ETL-TRAFFIC-MONSTER/blob/master/Images/Rush%20Hour%20Traffic%20Routes%20Scatter%20Plot.png?raw=true"width=240 alt="Rush Hour Max Scatter"></a>
         </li>
         <li>
-        <a href="https://data.sfgov.org/City-Infrastructure/Streets-Data-Pavement-Condition-Index-PCI-Scores/5aye-4rtt"><em>Click Here to see which Streets have the most Maintanence Issues</em></a>
+        <a href="https://data.sfgov.org/City-Infrastructure/Streets-Data-Pavement-Condition-Index-PCI-Scores/5aye-4rtt"><em>Click 4 Street Maintenance</em><img class="panel" src="https://github.com/ChiAmyC0987/ETL-TRAFFIC-MONSTER/blob/master/Images/Streets%20Condition%20with%20Max%20Maintenance%20Bar%20Chart.png?raw=true"width=240 alt="SPC"><img class="panel" src="https://github.com/ChiAmyC0987/ETL-TRAFFIC-MONSTER/blob/master/Images/Streets%20Condition%20with%20Max%20Maintenance%20Pie%20Chart.png?raw=true"width=240 alt="SPC pie chart"></a>
         </li>
         </ul>
        <h2> Project Proposal:</h2>
