@@ -1,0 +1,40 @@
+Welcome to the Traffic Monsters Data Visualization for the City of San Francisco
+
+Team Effort
+Traffic Monster Members:
+
+Chi
+Christian
+Mical
+Finding Data & Visualization
+Click here to see Rush Hour Routes
+Click Here to see which Streets have the most Maintanence Issues
+Project Proposal:
+Before you start writing any code, remember that you only have one week to complete this project. View this project as a typical assignment from work. Imagine a bunch of data came in and you and your team are tasked with migrating it to a production data base. Take advantage of your Instructor and TA support during office hours and class project work time. They are a valuable resource and can help you stay on track.
+
+Data Cleanup & Analysis , Project Report
+Once you have identified your datasets, perform ETL on the data. Make sure to plan and document the following:
+
+Extract:
+The sources of data that you will extract from(Datasets were Extracted as CSV files , read by using Pandas & formatted with PgAdmin4):
+
+Rush_Hour_Routes.csv 
+
+Street_Conditions_2017.csv 
+
+Transform:
+The type of transformation needed for this data (cleaning, joining, filtering, aggregating, etc).
+Created a filtered dataframe from specific columns
+
+Renamed the column headers
+
+Cleaned the data by dropping duplicates and setting the index
+
+Load:
+The type of final production database to load the data into (relational or non-relational).
+Created database , table schema , queries via PostgresSQL / Created Database connection via PgAdmin4
+
+The final tables or collections that will be used in the production database.
+Loaded DataFrames into PostgresSQL database
+
+You will be required to submit a final technical report with the above information and steps required to reproduce your ETL process.
