@@ -156,7 +156,7 @@ Take advantage of your Instructor and TA support during office hours and class p
         <p><em>Created database , table schema , queries with Pgadmin4 & stored in PostgresSQL / Loaded data into PostgresSQL database from Pandas</em></p>
         <li>The final tables or collections that will be used in the production database.</li>
         <p><em>Loaded DataFrames into PostgresSQL Database as Traffic_db</em></p>
-            <p><em>Connected to Network with Mongod</em></p><a href="https://github.com/ChiAmyC0987/ETL-TRAFFIC-MONSTER/blob/master/Images/MongoDBCompassTraffic_db.png?raw=true"><em>Click to View : Created a Database in <strong>MongoDB Compass</strong> as Traffic_db, Imported the 2 CSV files into 2  Collections</em></a>
+            <p><em>Connected to Network with Mongod</em></p><a href="https://github.com/ChiAmyC0987/ETL-TRAFFIC-MONSTER/blob/master/Images/MongoDBCompassTraffic_db2.png?raw=true"><em>Click to View : Created a Database in <strong>MongoDB Compass</strong> as Traffic_db, Imported the 2 CSV files into 2  Collections</em></a>
         <h3>Data Analytic Tools used for Project 1</h3>
 
 <p><em> A combination of Jupyter Notebook , Python, Pandas , PostgresSQL , PgAdmin4 , MongoD, MongoDB Compass, Flask , Html were used for this project </em></p>
