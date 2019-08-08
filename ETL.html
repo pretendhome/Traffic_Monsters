@@ -1,19 +1,5 @@
-from flask import Flask
-
-#################################################
-# Flask Setup
-#################################################
-
-app = Flask(__name__)
-
-
-#################################################
-# Flask Routes
-#################################################
-
-@app.route("/")
-def welcome():
-    return """ <html> 
+<!Doctype html>
+<html> 
      <body>
      <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -165,9 +151,3 @@ Take advantage of your Instructor and TA support during office hours and class p
         </body>
         </html>
        
-
-"""
-
-
-if __name__ == "__main__":
-    app.run(debug=True)
